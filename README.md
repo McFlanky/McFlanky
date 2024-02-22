@@ -20,8 +20,12 @@
 ####  Frontend Frameworks/Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,)](https://skillicons.dev)<br/>
 
-#### Backend Frameworks/Databases
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,mysql,firebase,supabase,postman)](https://skillicons.dev)<br/>
+#### Backend Frameworks/Libraries
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,django)](https://skillicons.dev)<br/>
+
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,postman)](https://skillicons.dev)<br/>
+
 
 
 
