@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,django)](https://skillicons.dev)<br/>
 
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,postman)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,)](https://skillicons.dev)<br/>
 
 
 
