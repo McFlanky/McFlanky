@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,py,go)](https://skillicons.dev)<br/>
 
 ####  Frontend Frameworks/Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nextjs,threejs,tailwind,)](https://skillicons.dev)<br/>
 
 #### Backend Frameworks/Libraries
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,django)](https://skillicons.dev)<br/>
