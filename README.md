@@ -4,7 +4,7 @@
 
 💻 Software Engineer starting my long journey in tech <br/>
 📘 Studying B.S. in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) <br/>
-💭 Currently learning about [Fullstack Development](https://www.coursera.org/articles/full-stack-developer) [and AI...](https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/)<br/>
+💭 Currently learning about Back-end Development [and AI...](https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/)<br/>
 🎮 Fan of ALL THINGS tech, video editing, video games, and fitness! <br/>
 📜 Scavaging for INTERNSHIPS... <br/>
 
