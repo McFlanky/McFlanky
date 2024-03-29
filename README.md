@@ -7,10 +7,6 @@
 - 🦀 Rust is next on the list... <br/>
 - 📜 Scavaging for Internships/Junior positions... <br/>
 
-<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Cole Turjanica's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcflanky&show_icons=true&theme=merko)](https://github.com/mcflanky/github-readme-stats) <br/>
-
-
 <!-- Level 2/3: -->
 ## ⚡️ Tech Stack
 #### Languages
