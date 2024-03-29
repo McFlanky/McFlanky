@@ -3,8 +3,8 @@
 ## 👋 Hi, I'm Cole!
 
 - 💻 Software Engineer starting my long journey in tech <br/>
-- 📘 Studying B.S. in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) <br/>
-- 💭 Currently learning Go and HTMX at the moment <br/>
+- 📘 Studying B.S. in Software Engineering <br/>
+- 💭 I'm learning Go and HTMX at the moment <br/>
 - 📜 Scavaging for INTERNSHIPS... <br/>
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
