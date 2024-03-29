@@ -5,7 +5,7 @@
 - 💻 Software Engineering student starting my long journey in tech <br/>
 - 💭 I'm learning Go and HTMX at the moment <br/>
 - 🦀 Rust is next on the list... <br/>
-- 📜 Scavaging for Internships/junior positions... <br/>
+- 📜 Scavaging for Internships/Junior positions... <br/>
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Cole Turjanica's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcflanky&show_icons=true&theme=merko)](https://github.com/mcflanky/github-readme-stats) <br/>
