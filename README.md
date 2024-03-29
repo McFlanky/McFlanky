@@ -1,19 +1,18 @@
 <!-- Level 1: Simplie Bio and stats -->
 
-# 👋 Hi, I'm Cole!
+## 👋 Hi, I'm Cole!
 
-💻 Software Engineer starting my long journey in tech <br/>
-📘 Studying B.S. in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) <br/>
-💭 Currently learning about Back-end Development [and AI...](https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/)<br/>
-🎮 Fan of ALL THINGS tech, video editing, video games, and fitness! <br/>
-📜 Scavaging for INTERNSHIPS... <br/>
+- 💻 Software Engineer starting my long journey in tech <br/>
+- 📘 Studying B.S. in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) <br/>
+- 💭 Currently learning Go and HTMX at the moment <br/>
+- 📜 Scavaging for INTERNSHIPS... <br/>
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Cole Turjanica's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcflanky&show_icons=true&theme=merko)](https://github.com/mcflanky/github-readme-stats) <br/>
 
 
 <!-- Level 2/3: -->
-# ⚡️ Tech Stack
+## ⚡️ Tech Stack
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,py,go)](https://skillicons.dev)<br/>
 
