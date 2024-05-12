@@ -3,8 +3,8 @@
 ## 👋 Hi, I'm Cole!
 
 - 💻 Software Engineering student starting my long journey in tech <br/>
-- 💭 I'm learning Go and HTMX at the moment <br/>
-- 🦀 Rust is next on the list... <br/>
+- 💭 I'm learning Go, consensus algorithms, and distributed systems at the moment <br/>
+- 🔑 Cryptography is next on the list <br/>
 - 📜 Scavaging for Internships/Junior positions... <br/>
 
 <!-- Level 2/3: -->
