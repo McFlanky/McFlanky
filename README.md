@@ -4,7 +4,7 @@
 
 - 💻 Software Engineering student starting my long journey in tech <br/>
 - 💭 I'm learning Go, consensus algorithms, and distributed systems at the moment <br/>
-- 🔑 Blockchain is on my mind <br/>
+- 🔑 Blockchain engineering is on my mind <br/>
 - 📜 Scavaging for Internships/Junior positions... <br/>
 
 <!-- Level 2/3: -->
