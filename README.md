@@ -1,11 +1,10 @@
 <!-- Level 1: Simplie Bio and stats -->
 
 ## 👋 Hi, I'm Cole!
-
-- 💻 Software Engineering student starting my long journey in tech <br/>
+- ⚙️ Microservices, web server, and blockchain engineer
 - 💭 I'm learning Go, consensus algorithms, and distributed systems at the moment <br/>
 - 🔑 Blockchain engineering is on my mind <br/>
-- 📜 Scavaging for Internships/Junior positions... <br/>
+
 
 <!-- Level 2/3: -->
 ## ⚡️ Tech Stack
