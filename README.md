@@ -1,7 +1,7 @@
 <!-- Level 1: Simplie Bio and stats -->
 
 ## 👋 Hi, I'm Cole!
-- ⚙️ Microservices, web server, and blockchain engineer
+- ⚙️ Microservices, web server, and blockchain software engineer
 - 💭 I'm learning Go, consensus algorithms, and distributed systems at the moment <br/>
 - 🔑 Blockchain engineering is on my mind <br/>
 
