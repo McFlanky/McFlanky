@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Cole!
 - ⚙️ Micro-services, web servers, and blockchain software engineer
-- 💭 I'm learning Go, consensus algorithms, and distributed systems at the moment <br/>
+- 💭 I'm learning Go, Rust, micro-services, and distributed systems at the moment <br/>
 - 🔑 I have a passion for cryptography and open source
 - 📘 B.S. in Software Engineering student
 
@@ -10,7 +10,7 @@
 <!-- Level 2/3: -->
 ## ⚡️ Tech Stack
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=go,ts,rust,java,py)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=go,ts,rust,ocaml,py)](https://skillicons.dev)<br/>
 
 ####  Frontend Frameworks/Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,angular,htmx,tailwind,)](https://skillicons.dev)<br/>
