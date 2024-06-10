@@ -10,7 +10,7 @@
 <!-- Level 2/3: -->
 ## ⚡️ Tech Stack
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=go,ts,rust,ocaml,py,java)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=go,ts,rust,ocaml,java)](https://skillicons.dev)<br/>
 
 ####  Frontend Frameworks/Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,angular,htmx,tailwind,)](https://skillicons.dev)<br/>
