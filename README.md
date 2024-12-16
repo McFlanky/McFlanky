@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,vue,htmx,tailwind,)](https://skillicons.dev)<br/>
 
 #### Backend Frameworks/Libraries
-[![My Skills](https://skillicons.dev/icons?i=nextjs,express,spring,django,)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=nextjs,express,spring,net,django,)](https://skillicons.dev)<br/>
 
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase)](https://skillicons.dev)<br/>
